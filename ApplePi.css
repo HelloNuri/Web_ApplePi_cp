@@ -1,0 +1,18 @@
+#brand_logo{
+  width: 18px;
+  height: 22px;
+  display: inline-block;
+}
+body {
+  padding-top: 70px;
+}
+.navbar-inverse {
+  background: #ff0000;
+}
+.navbar-inverse{
+  border: none;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: black;
+}
